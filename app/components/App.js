@@ -34,7 +34,7 @@ export default class App extends React.Component {
 
   componentDidMount() {
     // API call, update state
-    fetch('http://localhost:9000/api/items')
+    fetch('https://shop-king-api.herokuapp.com/api/items')
     .then(res => res.json())
     .then(res => {
       this.setState({ items: res.items })
