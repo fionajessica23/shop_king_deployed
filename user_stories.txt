@@ -1,0 +1,15 @@
+User Stories for Shop King App:
+1. As a user, I want to be able to select products that I want to purchase.
+
+2. As a user, I want to store the product/s in my shopping cart.
+
+3. As a user, I want to be able to increase and decrease the quantities of the product/s in my shopping cart.
+
+4. As a user, I want to be able to remove the product/s from my shopping cart.
+
+5. As a user, I want to be able to clear my shopping cart.
+
+6. As a user, I want to view my total price of my purchase.
+
+7. As a user, I want to be able to type in a discount coupon and apply it to my total price.
+
